@@ -1,0 +1,1 @@
+Trabalhando com o editor de texto VIM e criando um aquivo ao mesmo tempo
